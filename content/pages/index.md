@@ -216,9 +216,9 @@ sections:
       color: text-dark
     subtitle: Section with a form subtitle
     text: >+
-      `<iframe
-      src="<https://ftreal.co/4432/street-team-application.html?cid=__cid__>"
-      id="ftrealForm"></iframe>`
+      <iframe
+      src="https\://ftreal.co/4432/street-team-application.html?cid=\_\_cid\_\_"
+      id="ftrealForm"></iframe>
 
     actions: []
     badge:
