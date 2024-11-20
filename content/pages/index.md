@@ -216,10 +216,25 @@ sections:
       color: text-dark
     subtitle: Section with a form subtitle
     text: |+
-      <iframe 
-        src="https\://ftreal.co/4432/street-team-application.html?cid=\_\_cid\_\_" 
-        id="ftrealForm">
-      </iframe>
+      <!DOCTYPE html>
+
+      <html lang="en">
+      <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Embed Example</title>
+      </head>
+      <body>
+        <h1>Embed an iFrame</h1>
+        <iframe 
+          src="https\://ftreal.co/4432/street-team-application.html?cid=12345" 
+          width="100%" 
+          height="500" 
+          frameborder="0" 
+          allowfullscreen>
+        </iframe>
+      </body>
+      </html>
 
     actions: []
     badge:
